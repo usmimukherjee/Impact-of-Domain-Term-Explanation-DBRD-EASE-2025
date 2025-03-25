@@ -52,7 +52,7 @@ To replicate the work, follow these steps:
 1. After creating the virtual environment, activate it by following the instructions -  [here](https://docs.python.org/3/library/venv.html)
 
 2. Install the necessary dependencies
-```python
+```sh
 pip install -r requirements.txt
 ```
 
