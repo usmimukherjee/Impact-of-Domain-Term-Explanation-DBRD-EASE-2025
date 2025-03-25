@@ -79,3 +79,6 @@ The preprint of this work is available at:
 [http://arxiv.org/abs/2503.18832](http://arxiv.org/abs/2503.18832)
 
 For any further questions or issues, please feel free to open an issue on the GitHub page.
+
+## Licensing Information
+This project is licensed under the MIT License, a permissive open-source license that allows others to use, modify, and distribute the project's code with very few restrictions. This license can benefit research by promoting collaboration and encouraging the sharing of ideas and knowledge. With this license, researchers can build on existing code to create new tools, experiments, or projects, and easily adapt and customize the code to suit their specific research needs without worrying about legal implications. The open-source nature of the MIT License can help foster a collaborative research community, leading to faster innovation and progress in their respective fields. Additionally, the license can help increase the visibility and adoption of the project, attracting more researchers to use and contribute to it.
