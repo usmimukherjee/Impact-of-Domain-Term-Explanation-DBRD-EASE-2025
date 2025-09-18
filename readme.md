@@ -73,6 +73,11 @@ After setting up the environment and installing dependencies, you can run the Py
 5. **Train the T5 model**:
    ```sh
    python src/T5Train/java_model.py
+## Authors
+
+- Usmi Mukherjee - Dalhousie University, usmi.mukherjee@dal.ca
+- Mohammad Masudur Rahman - Dalhousie University, masud.rahman@dal.ca
+
 
 ## Preprint
 The preprint of this work is available at:
